@@ -1,1 +1,2 @@
 [2026-03-23T14:05:11Z] Repository initialized: created agents/ directory for storing agents and logs/ directory for activity tracking.
+[2026-03-23T14:20:09Z] Added image_generator_agent.py to agents/: reads text prompts and generates images via OpenAI DALL-E API, saving output to agents/generated_images/.
