@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Generated images are stored locally but not committed
+# (remove the next line if you want to track generated images in git)
+# agents/generated_images/*.png
